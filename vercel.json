@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/sitemap.xml",
+      "dest": "/api/sitemap.js"
+    },
+    {
+      "src": "/google23c3528f83605809.html",
+      "dest": "/api/google23c3528f83605809.html.js"
+    }
+  ]
+}
